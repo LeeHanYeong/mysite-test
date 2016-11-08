@@ -27,7 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'ec2-52-78-214-222.ap-northeast-2.compute.amazonaws.com',
-    'iiii.so',
+    #'www.iiii.so',
+    #'iiii.so',
+    #'hanyeong.iiii.so',
+    '.iiii.so',
 ]
 
 
